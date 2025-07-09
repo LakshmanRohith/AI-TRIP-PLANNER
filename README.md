@@ -123,4 +123,4 @@ MIT License. See `LICENSE` file for details.
 ## 👤 Author
 
 **Lakshman Rohith**  
-[GitHub](https://github.com/LakshmanRohith) • [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lakshman-rohith-sanagapalli/))
+[GitHub](https://github.com/LakshmanRohith) • [LinkedIn](https://www.linkedin.com/in/lakshman-rohith-sanagapalli/)
